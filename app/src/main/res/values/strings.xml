@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Recorder</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="btn_normal">Press to speak</string>
+    <string name="btn_recording">Release to send</string>
+    <string name="btn_cancel">Slide to cancel</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="dialog_normal">Slide up to cancel</string>
+    <string name="dialog_cancel">Release to cancel</string>
+    <string name="dialog_tooshort">Time is too short</string>
+</resources>
